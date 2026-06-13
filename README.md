@@ -31,7 +31,7 @@
 1. Cloner ce dépôt :
 
    ```bash
-   git clone https://github.com/CamatoDev/bot-arena.git
+   git clone https://github.com/israel-joel/bot-arena.git
    ```
 2. Ouvrir le projet dans Unity Hub (sélectionner le dossier cloné).
 3. Dans **Window > Package Manager**, vérifier que TextMeshPro et A\* Pathfinding Project sont importés.
@@ -87,12 +87,6 @@ Les contributions sont les bienvenues ! Pour proposer des améliorations :
 2. Crée une branche `feature/ma-fonctionnalite`.
 3. Commit tes changements et pousse la branche.
 4. Ouvre une Pull Request décrivant tes modifications.
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
 
 ---
 
